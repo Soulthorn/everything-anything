@@ -10,11 +10,12 @@ config_version=5
 
 [application]
 
-config/name="anything"
-config/description="blank haha"
-run/main_scene="res://map/node_2d.tscn"
+config/name="The Underground"
+config/description="Deep down the underground, where mankind's advanced technology has made the first ever portal, leading to an unknown coordinate...
+What can you find there..?"
+run/main_scene="uid://0nfeprarjbnj"
 config/features=PackedStringArray("4.6", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://4pj62hl701we"
 
 [display]
 
